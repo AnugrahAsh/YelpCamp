@@ -10,7 +10,6 @@ YelpCamp is a full-stack web application where users can create, view, and revie
 - [Installation](#installation)
 - [Usage](#usage)
 - [Future Improvements](#future-improvements)
-- [License](#license)
 
 ## Project Overview
 
@@ -80,7 +79,3 @@ YelpCamp is a web application developed as a practice project to learn and imple
 - **Map Integration**: Integrate a map to display campground locations.
 - **Search and Filtering**: Add search functionality to find campgrounds based on location, name, etc.
 - **Enhanced UI/UX**: Improve the visual design and usability of the app.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
